@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Thamnolaea cinnmomeiventris","category":"Indigo"},
+{"id":2,"name":"Gyps bengalensis","category":"Mauv"},
+{"id":3,"name":"Anas punctata","category":"Red"},
+{"id":4,"name":"Eudromia elegans","category":"Yellow"},
+{"id":5,"name":"Pelecanus occidentalis","category":"Orange"},
+{"id":6,"name":"Limosa haemastica","category":"Red"},
+{"id":7,"name":"Macropus eugenii","category":"Maroon"},
+{"id":8,"name":"Recurvirostra avosetta","category":"Orange"},
+{"id":9,"name":"Macaca radiata","category":"Blue"},
+{"id":10,"name":"Petaurus breviceps","category":"Yellow"},
+{"id":11,"name":"Aonyx capensis","category":"Purple"},
+{"id":12,"name":"Ovis ammon","category":"Yellow"},
+{"id":13,"name":"Giraffe camelopardalis","category":"Khaki"},
+{"id":14,"name":"Phalacrocorax albiventer","category":"Red"},
+{"id":15,"name":"Cervus duvauceli","category":"Aquamarine"},
+{"id":16,"name":"unavailable","category":"Puce"},
+{"id":17,"name":"Eudyptula minor","category":"Yellow"},
+{"id":18,"name":"Amphibolurus barbatus","category":"Teal"},
+{"id":19,"name":"Damaliscus lunatus","category":"Violet"},
+{"id":20,"name":"Felis concolor","category":"Blue"}
+]
+}
